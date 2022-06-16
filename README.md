@@ -1,7 +1,8 @@
 ---
 title: Docker Registry User Interface
 ---
-
+Simple Standalone Docker Compose Example
+[Use docker-registry-ui as standalone (use URL)](https://github.com/yoowy90/docker-registry-ui/tree/main/examples/ui-as-standalone)
 # Docker Registry UI
 
 ![Stars](https://img.shields.io/github/stars/joxit/docker-registry-ui.svg?logo=github&maxAge=86400)
